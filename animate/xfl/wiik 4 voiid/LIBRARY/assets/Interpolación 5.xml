@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="assets/Interpolación 5" itemID="60b7b8ac-000000f2" symbolType="graphic" lastModified="1676490449">
+  <timeline>
+    <DOMTimeline name="Interpolación 5" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-15 420[-2 431 -6 444!-6 444[-10 453 -22 457!-22 457[-31 459 -48 459!-48 459[-55 459 -59 457!-59 457[-66 455 -66 449!-66 449[-68 440 -57 438!-57 438|-42 439!-42 439[-29 439 -26 437!-26 437|-40 426!-40 426[-48 418 -46 410!-46 410[-43
+ 403 -28 401!-28 401|17 400!17 400[27 400 31 403!31 403[40 407 36 415!36 415[32 422 22 420!22 420|-15 420"/>
+                    <Edge cubics="!-15 420(;-8,426 -3,435 -6,444q-15 420Q-2 431q-6 444);"/>
+                    <Edge cubics="!-6 444(;-9,451 -16,455 -22,457q-6 444Q-10 453q-22 457);"/>
+                    <Edge cubics="!-22 457(;-31,459 -39,459 -48,459q-22 457Q-31 459q-48 459);"/>
+                    <Edge cubics="!-48 459(;-52,459 -55,459 -59,457q-48 459Q-55 459q-59 457);"/>
+                    <Edge cubics="!-59 457(;-63,456 -66,453 -66,449q-59 457Q-66 455q-66 449);"/>
+                    <Edge cubics="!-66 449(;-67,444 -62,439 -57,438q-66 449Q-68 440q-57 438);"/>
+                    <Edge cubics="!-57 438(;-52,437 -47,438 -42,439q-57 438 -42 439);"/>
+                    <Edge cubics="!-42 439(;-36,439 -31,440 -26,437q-42 439Q-29 439q-26 437);"/>
+                    <Edge cubics="!-26 437(;-30,433 -35,430 -40,426q-26 437 -40 426);"/>
+                    <Edge cubics="!-40 426(;-44,422 -48,416 -46,410q-40 426Q-48 418q-46 410);"/>
+                    <Edge cubics="!-46 410(;-43,404 -35,402 -28,401q-46 410Q-43 403q-28 401);"/>
+                    <Edge cubics="!-28 401(;-13,400 2,400 17,400q-28 401 17 400);"/>
+                    <Edge cubics="!17 400(;22,400 27,400 31,403q17 400Q27 400q31 403);"/>
+                    <Edge cubics="!31 403(;35,405 38,411 36,415q31 403Q40 407q36 415);"/>
+                    <Edge cubics="!36 415(;33,420 27,421 22,420q36 415Q32 422q22 420);"/>
+                    <Edge cubics="!22 420(;9,420 -3,420 -15,420q22 420 -15 420);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Duplicate Items Folder/matthead1" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix tx="18.1" ty="2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

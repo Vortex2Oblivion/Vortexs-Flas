@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scarf Full" itemID="63d841d8-0000062c" symbolType="graphic" lastModified="1676490443">
+  <timeline>
+    <DOMTimeline name="Scarf Full" currentFrame="12" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Scarf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.969573974609375" b="0.244735717773438" c="-0.244735717773438" d="0.969573974609375" tx="-92.4" ty="86.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.05" y="-103.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

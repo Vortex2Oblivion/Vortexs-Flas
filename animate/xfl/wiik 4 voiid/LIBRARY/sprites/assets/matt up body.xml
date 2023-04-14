@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprites/assets/matt up body" itemID="63f0d6e6-000000c0" symbolType="graphic" lastModified="1676728208">
+  <timeline>
+    <DOMTimeline name="matt up body" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sprites/FVPqz9ZWQAEA-Fz.png">
+                  <matrix>
+                    <Matrix a="0.500152587890625" d="0.500152587890625" tx="-119.95" ty="-34.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

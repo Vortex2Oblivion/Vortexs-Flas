@@ -1,0 +1,385 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="matt up note" itemID="60767515-00000095" symbolType="graphic" lastModified="1676417208" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="matt up note" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_6" color="#FF0000" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bitmap 5">
+                  <matrix>
+                    <Matrix tx="270.1" ty="-317.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bitmap 2">
+                  <matrix>
+                    <Matrix a="2.91761779785156" d="2.91761779785156" tx="284.15" ty="-326.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap 28">
+                  <matrix>
+                    <Matrix a="2.5286865234375" d="2.5286865234375" tx="291.85" ty="-474.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rarm" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/mattarm" symbolType="graphic" centerPoint3DX="108.5" centerPoint3DY="-79.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.4471435546875" b="-0.894287109375" c="0.894287109375" d="0.4471435546875" tx="108.55" ty="-79.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.05" y="27.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.00392156862745098"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3071 -2663[3509 -2560 3943 -2614!3943 -2614[4124 -2638 4234 -2688!4234 -2688[4387 -2757 4456 -2883!4456 -2883[4477 -2922 4493 -2977!4493 -2977[4503 -3008 4518 -3076!4518 -3076[4552 -3224 4488 -3275!4488 -3275[4472 -3288 4439 -3300!4439
+ -3300[4398 -3314 4386 -3321!4386 -3321[4346 -3345 4334 -3393!4334 -3393[4321 -3442 4347 -3478!4347 -3478[4374 -3515 4429 -3521!4429 -3521[4478 -3527 4529 -3507!4529 -3507[4631 -3469 4689 -3382!4689 -3382[4746 -3297 4750 -3176!4750 -3176
+[4753 -3074 4719 -2957!4719 -2957[4665 -2773 4567 -2661!4567 -2661[4395 -2465 4024 -2405!4024 -2405[3572 -2329 3070 -2440!3070 -2440[2632 -2537 2360 -2744!2360 -2744[2163 -2894 2035 -3113!2035 -3113[1906 -3331 1871 -3576!1871 -3576[1856
+ -3677 1881 -3732!1881 -3732[1898 -3770 1934 -3791!1934 -3791[1972 -3813 2009 -3801!2009 -3801[2057 -3785 2079 -3723!2079 -3723[2089 -3692 2093 -3614!2093 -3614[2113 -3368 2271 -3149!2271 -3149[2421 -2942 2651 -2817!2651 -2817[2827 -2721
+ 3071 -2663"/>
+                    <Edge cubics="!3071 -2663(;3356,-2596 3653,-2578 3943,-2614q3071 -2663Q3509 -2560q3943 -2614);"/>
+                    <Edge cubics="!3943 -2614(;4042,-2627 4142,-2646 4234,-2688q3943 -2614Q4124 -2638q4234 -2688);"/>
+                    <Edge cubics="!4234 -2688(;4325,-2729 4408,-2795 4456,-2883q4234 -2688Q4387 -2757q4456 -2883);"/>
+                    <Edge cubics="!4456 -2883(;4488,-2942 4503,-3010 4518,-3076q4456 -2883Q4477 -2922q4493 -2977Q4503 -3008q4518 -3076);"/>
+                    <Edge cubics="!4518 -3076(;4534,-3145 4544,-3231 4488,-3275q4518 -3076Q4552 -3224q4488 -3275);"/>
+                    <Edge cubics="!4488 -3275(;4459,-3298 4419,-3303 4386,-3321q4488 -3275Q4472 -3288q4439 -3300Q4398 -3314q4386 -3321);"/>
+                    <Edge cubics="!4386 -3321(;4334,-3352 4312,-3429 4347,-3478q4386 -3321Q4346 -3345q4334 -3393Q4321 -3442q4347 -3478);"/>
+                    <Edge cubics="!4347 -3478(;4386,-3531 4467,-3531 4529,-3507q4347 -3478Q4374 -3515q4429 -3521Q4478 -3527q4529 -3507);"/>
+                    <Edge cubics="!4529 -3507(;4593,-3483 4651,-3439 4689,-3382q4529 -3507Q4631 -3469q4689 -3382);"/>
+                    <Edge cubics="!4689 -3382(;4771,-3260 4760,-3097 4719,-2957q4689 -3382Q4746 -3297q4750 -3176Q4753 -3074q4719 -2957);"/>
+                    <Edge cubics="!4719 -2957(;4687,-2849 4640,-2745 4567,-2661q4719 -2957Q4665 -2773q4567 -2661);"/>
+                    <Edge cubics="!4567 -2661(;4432,-2508 4226,-2438 4024,-2405q4567 -2661Q4395 -2465q4024 -2405);"/>
+                    <Edge cubics="!4024 -2405(;3708,-2352 3383,-2371 3070,-2440q4024 -2405Q3572 -2329q3070 -2440);"/>
+                    <Edge cubics="!3070 -2440(;2817,-2496 2566,-2587 2360,-2744q3070 -2440Q2632 -2537q2360 -2744);"/>
+                    <Edge cubics="!2360 -2744(;2097,-2944 1918,-3250 1871,-3576q2360 -2744Q2163 -2894q2035 -3113Q1906 -3331q1871 -3576);"/>
+                    <Edge cubics="!1871 -3576(;1863,-3629 1859,-3684 1881,-3732q1871 -3576Q1856 -3677q1881 -3732);"/>
+                    <Edge cubics="!1881 -3732(;1903,-3781 1958,-3817 2009,-3801q1881 -3732Q1898 -3770q1934 -3791Q1972 -3813q2009 -3801);"/>
+                    <Edge cubics="!2009 -3801(;2043,-3790 2067,-3757 2079,-3723q2009 -3801Q2057 -3785q2079 -3723);"/>
+                    <Edge cubics="!2079 -3723(;2090,-3688 2091,-3651 2093,-3614q2079 -3723Q2089 -3692q2093 -3614);"/>
+                    <Edge cubics="!2093 -3614(;2121,-3277 2354,-2978 2651,-2817q2093 -3614Q2113 -3368q2271 -3149Q2421 -2942q2651 -2817);"/>
+                    <Edge cubics="!2651 -2817(;2782,-2746 2925,-2698 3071,-2663q2651 -2817Q2827 -2721q3071 -2663);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/mattarm" symbolType="graphic" centerPoint3DX="107.15" centerPoint3DY="-86.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.32666015625" b="-0.944961547851562" c="0.944961547851562" d="0.32666015625" tx="107.2" ty="-86.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.1" y="27.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/mattarm" symbolType="graphic" centerPoint3DX="106.25" centerPoint3DY="-84.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.3748779296875" b="-0.9268798828125" c="0.9268798828125" d="0.3748779296875" tx="106.25" ty="-84"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.1" y="27.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/mattarm" symbolType="graphic" centerPoint3DX="108.5" centerPoint3DY="-77.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.53338623046875" b="-0.845687866210938" c="0.845687866210938" d="0.53338623046875" tx="108.55" ty="-77.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.1" y="16.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/mattarm" symbolType="graphic" centerPoint3DX="108.55" centerPoint3DY="-75.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.561859130859375" b="-0.8270263671875" c="0.8270263671875" d="0.561859130859375" tx="108.55" ty="-75.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.15" y="16.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/mattarm" symbolType="graphic" centerPoint3DX="108.55" centerPoint3DY="-73.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.543441772460938" b="-0.8392333984375" c="0.8392333984375" d="0.543441772460938" tx="108.55" ty="-73.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.2" y="16.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="point_hand" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up hand" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-181.35" ty="-12.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.7" y="42"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up hand" symbolType="graphic" centerPoint3DX="-132.4" centerPoint3DY="29.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="-177.1" ty="-12.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.7" y="42"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up hand" symbolType="graphic" centerPoint3DX="-132.4" centerPoint3DY="28.6" loop="loop">
+                  <matrix>
+                    <Matrix tx="-177.1" ty="-13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.7" y="42"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up hand" symbolType="graphic" centerPoint3DX="-132.45" centerPoint3DY="29.4" loop="loop">
+                  <matrix>
+                    <Matrix tx="-177.15" ty="-12.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.7" y="42"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up hand" symbolType="graphic" centerPoint3DX="-132.45" centerPoint3DY="32.55" loop="loop">
+                  <matrix>
+                    <Matrix tx="-177.15" ty="-9.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.7" y="42"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="head" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matthead2" symbolType="graphic" centerPoint3DX="-35.35" centerPoint3DY="-122.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.997177124023438" b="-0.0744476318359375" c="0.0744476318359375" d="0.997177124023438" tx="-34.85" ty="-122.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.9" y="64.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matthead2" symbolType="graphic" centerPoint3DX="-42.75" centerPoint3DY="-129.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9935302734375" b="-0.112991333007812" c="0.112991333007812" d="0.9935302734375" tx="-42.2" ty="-129.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.95" y="64.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matthead2" symbolType="graphic" centerPoint3DX="-45.5" centerPoint3DY="-124.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.978408813476562" b="-0.206329345703125" c="0.206329345703125" d="0.978408813476562" tx="-45" ty="-124.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.95" y="64.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matthead2" symbolType="graphic" centerPoint3DX="-37.25" centerPoint3DY="-120.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.995361328125" b="-0.09576416015625" c="0.09576416015625" d="0.995361328125" tx="-36.8" ty="-120.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matthead2" symbolType="graphic" centerPoint3DX="-35.15" centerPoint3DY="-118.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.99749755859375" b="-0.0699462890625" c="0.0699462890625" d="0.99749755859375" tx="-34.65" ty="-118.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matthead2" symbolType="graphic" centerPoint3DX="-33.75" centerPoint3DY="-117.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.99749755859375" b="-0.0699462890625" c="0.0699462890625" d="0.99749755859375" tx="-33.25" ty="-117.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Scarf_up" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.967071533203125" b="-0.254501342773438" c="0.254501342773438" d="0.967071533203125" tx="-116.6" ty="36.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.35" y="-60.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="body" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up body">
+                  <matrix>
+                    <Matrix c="0.013916015625" d="1.00822448730469" tx="-91.95" ty="-76.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="74.2" y="304.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up body" centerPoint3DX="27.4" centerPoint3DY="80.75">
+                  <matrix>
+                    <Matrix c="-0.0076446533203125" d="1.00721740722656" tx="-85.3" ty="-75.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="74.15" y="304"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up body" centerPoint3DX="27.4" centerPoint3DY="80.75">
+                  <matrix>
+                    <Matrix c="-0.01025390625" d="1.00125122070312" tx="-84.5" ty="-74.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="74.2" y="303.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up body" centerPoint3DX="29.45" centerPoint3DY="82">
+                  <matrix>
+                    <Matrix c="-0.01849365234375" d="0.991928100585938" tx="-82" ty="-71.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.65" y="309.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="assets/matt up body" centerPoint3DX="29.45" centerPoint3DY="82">
+                  <matrix>
+                    <Matrix c="-0.021881103515625" d="0.991928100585938" tx="-80.95" ty="-71.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.65" y="309.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

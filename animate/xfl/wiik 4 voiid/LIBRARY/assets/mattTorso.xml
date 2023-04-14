@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="assets/mattTorso" itemID="606802d0-0000015b" symbolType="graphic" lastModified="1676576474">
+  <timeline>
+    <DOMTimeline name="mattTorso" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="assets/if this doesnt look shit in game.png">
+                  <matrix>
+                    <Matrix a="0.925918579101562" b="0.00177001953125" d="1.04460144042969" tx="-363.1" ty="-163.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
